@@ -18,4 +18,4 @@ const useCart=create((set)=>({
         localStorage.setItem('Cartcount',state.count) 
         return {count:countstate}})
 }))
-export default UseCart;
+export default aseCart;
